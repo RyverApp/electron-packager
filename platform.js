@@ -1,6 +1,6 @@
 'use strict'
 
-const asar = require('asar')
+const asar = require('@ryverapp/asar')
 const debug = require('debug')('electron-packager')
 const fs = require('fs-extra')
 const path = require('path')

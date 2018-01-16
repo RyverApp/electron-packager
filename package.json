@@ -1,5 +1,5 @@
 {
-  "name": "electron-packager",
+  "name": "@ryverapp/electron-packager",
   "version": "10.1.1",
   "description": "Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/electron-userland/electron-packager",
   "dependencies": {
-    "asar": "^0.14.0",
+    "@ryverapp/asar": "^0.14.0",
     "debug": "^3.0.0",
     "electron-download": "^4.0.0",
     "electron-osx-sign": "^0.4.1",
